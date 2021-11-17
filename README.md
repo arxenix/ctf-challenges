@@ -4,6 +4,7 @@ Various CTF (capture the flag) security challenges that I've created
 
 | Name  | CTF | Category | Description | Year |
 --------|-----|----------|-------------|------|
+| [uploader](https://github.com/arxenix/uploader-chal) | N/A | web | no spoilers yet | 2021 |
 | [pwnyIDE](https://github.com/sigpwny/UIUCTF-2021-Public/tree/master/web/pwnyide) | UIUCTF 2021 | web | chrome 0day (header length bypass) + cross protocol scripting + 2 node-ftpd 0days (race condition, multiple command smuggling) | 2021 |
 | [yana](https://github.com/sigpwny/UIUCTF-2021-Public/tree/master/web/yana) | UIUCTF 2021 | web | cache probing xs-leak + cache partitioning bypass | 2021 |
 | [essveegee](https://github.com/sigpwny/UIUCTF-2021-Public/tree/master/web/essveegee) | UIUCTF 2021 | web | SVG LFI + file:// directory brute forcing without JS | 2021 |
