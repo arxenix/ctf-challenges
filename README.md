@@ -17,5 +17,4 @@ Various CTF (capture the flag) security challenges that I've created
 | qset 1,2,3 | ABCTF 2017 | ppc | write code in an esolang i made | 2017 | [Writeup](https://github.com/ctfs/write-ups-2016/tree/master/abctf-2016/ppc/qset1-100) |
 | [library](https://github.com/easyctf/easyctf-2017-problems/blob/master/library/description.md) | EasyCTF 2017 | ppc | combinatorics fun | 2017 | [Writeup (CN)](https://hackfun.org/2017/04/09/EasyCTF-2017-Misc-Pro-Write-Up/#Library) |
 | [Little Crypto Gambler](https://github.com/ctf-x/ctfx-problems-2016/tree/master/crypto/little_crypto_gambler-150) | ctf(x) | crypto | crack generated LCGs | 2016 | [Writeup](http://opensource-thoughts.blogspot.com/2016/08/ctfx-2016-little-crypto-gambler-crypto.html) |
-| [blocky](https://github.com/ctf-x/ctfx-problems-2016/tree/master/crypto/blocky-200) | ctf(x) | crypto | reversible block cipher via z3 | 2016 | N/A |
 | [customauth](https://github.com/ctf-x/ctfx-problems-2016/tree/master/crypto/customauth-100) | ctf(x) | crypto/web | ECB ciphertext manipulation | 2016 | [Writeup](https://nandynarwhals.org/ctfx2016-customauth/) |
