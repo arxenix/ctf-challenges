@@ -4,8 +4,11 @@ Various CTF (capture the flag) security challenges that I've created
 
 | Name  | CTF | Category | Description | Year | Writeup |
 --------|-----|----------|-------------|------|---------|
-| [spoink](https://github.com/sigpwny/uiuctf-2022-chal-repo/blob/master/challenges/web/spoink) | UIUCTF 2022 | web | Pebble Spring SSTI 0day | 2022 | [Writeup (CN)](https://blog.maple3142.net/2022/08/01/uiuctf-2022-writeups/), [Writeup (JP)](https://blog.arkark.dev/2022/08/01/uiuctf/) |
-| [woeby](https://github.com/sigpwny/uiuctf-2022-chal-repo/blob/master/challenges/web/woeby) | UIUCTF 2022 | web | CSRF+SQLi in OSS search engine | 2022 | [Writeup (CN)](https://blog.maple3142.net/2022/08/01/uiuctf-2022-writeups/) |
+| [geminiblog](https://github.com/dicegang/dicectf-2023-challenges/tree/main/misc/geminiblog) | DiceCTF 2023 | misc | Bash bugs + SNI injection | 2023 | [Writeup](https://blog.ankursundara.com/dicectf23-writeups/#geminiblog) |
+| [impossible-xss](https://github.com/dicegang/dicectf-2023-challenges/tree/main/web/impossible-xss) | DiceCTF 2023 | web | XXE in Chrome XSLT | 2023 | [Writeup](https://blog.ankursundara.com/dicectf23-writeups/#impossible-xss) |
+| [jnotes](https://github.com/dicegang/dicectf-2023-challenges/tree/main/web/jnotes) | DiceCTF 2023 | web | Cookie smuggling / Jetty 0day | 2023 | [Writeup](https://r0h1t.me/blog/posts/jnotes/), [Writeup](https://blog.ankursundara.com/dicectf23-writeups/#jnotes) |
+| [spoink](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/web/spoink) | UIUCTF 2022 | web | Pebble Spring SSTI 0day | 2022 | [Writeup (CN)](https://blog.maple3142.net/2022/08/01/uiuctf-2022-writeups/), [Writeup (JP)](https://blog.arkark.dev/2022/08/01/uiuctf/) |
+| [woeby]([https://github.com/sigpwny/uiuctf-2022-chal-repo/blob/master/challenges/web/woeby](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/web/woeby)) | UIUCTF 2022 | web | CSRF+SQLi in OSS search engine | 2022 | [Writeup (CN)](https://blog.maple3142.net/2022/08/01/uiuctf-2022-writeups/) |
 | [precisionism](https://github.com/sigpwny/uiuctf-2022-chal-repo/blob/master/challenges/web/precisionism) | UIUCTF 2022 | web | Harder prefix injection to bypass CORB | 2022 | [Writeup](https://hackmd.io/@parrot409/ry2mk-0A9) |
 | [modernism](https://github.com/sigpwny/uiuctf-2022-chal-repo/blob/master/challenges/web/modernism) | UIUCTF 2022 | web | Prefix injection to bypass CORB | 2022 | [Writeup (CN)](https://blog.huli.tw/2022/08/01/uiuctf-2022-writeup/) |
 | [shadow](https://github.com/dicegang/dicectf-2022-challenges/tree/master/web/shadow) | DiceCTF 2022 | web | exfiltration from shadow DOM | 2022 | [Writeup](https://github.com/Super-Guesser/ctf/blob/master/2022/dicectf/shadow.md) |
