@@ -4,6 +4,7 @@ Various CTF (capture the flag) security challenges that I've created
 
 | Name  | CTF | Category | Description | Year | Writeup |
 --------|-----|----------|-------------|------|---------|
+| [pwnykey](https://2023.uiuc.tf/challenges#pwnykey-16) | UIUCTF 2023 | rev | reversing custom obfuscation of DeviceScript bytecode | 2023 | [Writeup](https://gist.github.com/RubenBrocke/248e80151e2ff4d4ea67a5af792ec4d6) |
 | [geminiblog](https://github.com/dicegang/dicectf-2023-challenges/tree/main/misc/geminiblog) | DiceCTF 2023 | misc | Bash bugs + SNI injection | 2023 | [Writeup](https://blog.ankursundara.com/dicectf23-writeups/#geminiblog) |
 | [impossible-xss](https://github.com/dicegang/dicectf-2023-challenges/tree/main/web/impossible-xss) | DiceCTF 2023 | web | XXE in Chrome XSLT | 2023 | [Writeup](https://blog.ankursundara.com/dicectf23-writeups/#impossible-xss) |
 | [jnotes](https://github.com/dicegang/dicectf-2023-challenges/tree/main/web/jnotes) | DiceCTF 2023 | web | Cookie smuggling / Jetty 0day | 2023 | [Writeup](https://r0h1t.me/blog/posts/jnotes/), [Writeup](https://blog.ankursundara.com/dicectf23-writeups/#jnotes) |
