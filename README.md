@@ -19,7 +19,7 @@ Various CTF (capture the flag) security challenges that I've created
 | [yana](https://github.com/sigpwny/UIUCTF-2021-Public/tree/master/web/yana) | UIUCTF 2021 | web | cache probing xs-leak + cache partitioning bypass | 2021 | [Writeup](https://fireshellsecurity.team/uiuctf2021-yana/) |
 | [essveegee](https://github.com/sigpwny/UIUCTF-2021-Public/tree/master/web/essveegee) | UIUCTF 2021 | web | SVG LFI + file:// directory brute forcing without JS | 2021 | [Writeup (JP)](https://nanimokangaeteinai.hateblo.jp/entry/2021/08/02/103244#Web-483-essveegee-4-solves) |
 | [phpfuck](https://github.com/sigpwny/UIUCTF-2021-Public/tree/master/jail/phpfuck) | UIUCTF 2021 | jail | PHP RCE in 5 unique chars | 2021 | [Writeup](https://mystiz.hk/posts/2021-08-10-uiuctf-phpfuck/) |
-| deserializeme | UIUCTF 2020 | exploit | PyYAML 0day | 2020 | [Writeup](https://hackmd.io/@harrier/uiuctf20) |
+| [deserializeme](https://gist.github.com/arxenix/7e3b0093e1bcc40f633e2b2afa300aab) | UIUCTF 2020 | exploit | PyYAML 0day | 2020 | [Writeup](https://hackmd.io/@harrier/uiuctf20) |
 | nookcrypt | UIUCTF 2020 | crypto | ECC fault attack | 2020 | [Writeup](https://hackmd.io/@mystiz/uiuctf-2020-nookcrypt) |
 | fumblr | EasyCTF IV | web | CSRF + CSP bypass | 2018 | [Writeup](https://ctfshellclub.github.io/2018/02/21/easyctf-fumblr/) |
 | [Fanfic Studio](https://github.com/easyctf/easyctf-iv-problems/tree/master/fanfic) | EasyCTF IV | pwn | intro heap exploitation | 2018 | [Writeup](https://ctftime.org/writeup/8827) |
