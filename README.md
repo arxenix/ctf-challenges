@@ -4,8 +4,8 @@ Various CTF (capture the flag) security challenges that I've created
 
 | Name  | CTF | Category | Description | Year | Writeup |
 --------|-----|----------|-------------|------|---------|
-| [uploaders-revenge](https://github.com/osirislab/CSAW-CTF-2023-Finals/tree/main/web/uploaders-revenge) | CSAW CTF 2023 Finals | web | Firefox CSP bypass via controlled mimetype | 2023 | TODO) |
-| [webhooktester](https://github.com/osirislab/CSAW-CTF-2023-Finals/tree/main/web/webhooktester) | CSAW CTF 2023 Finals | web | SSRF filter bypassing + Caddy SSRF -> RCE | 2023 | TODO) |
+| [uploaders-revenge](https://github.com/osirislab/CSAW-CTF-2023-Finals/tree/main/web/uploaders-revenge) | CSAW CTF 2023 Finals | web | Firefox CSP bypass via controlled mimetype | 2023 | TODO |
+| [webhooktester](https://github.com/osirislab/CSAW-CTF-2023-Finals/tree/main/web/webhooktester) | CSAW CTF 2023 Finals | web | SSRF filter bypassing + Caddy SSRF -> RCE | 2023 | TODO |
 | [rainbow-notes](https://github.com/osirislab/CSAW-CTF-2023-Quals/tree/main/web/rainbow-notes) | CSAW CTF 2023 | web | DOM clobbering + STTF XS-leak | 2023 | [Writeup](https://github.com/osirislab/CSAW-CTF-2023-Quals/blob/main/web/rainbow-notes/SOLUTION.md) |
 | [pwnykey](https://2023.uiuc.tf/challenges#pwnykey-16) | UIUCTF 2023 | rev | reversing custom obfuscation of DeviceScript bytecode | 2023 | [Writeup](https://gist.github.com/RubenBrocke/248e80151e2ff4d4ea67a5af792ec4d6) |
 | [geminiblog](https://github.com/dicegang/dicectf-2023-challenges/tree/main/misc/geminiblog) | DiceCTF 2023 | misc | bash bugs + SNI injection | 2023 | [Writeup](https://blog.ankursundara.com/dicectf23-writeups/#geminiblog) |
